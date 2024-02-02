@@ -1,0 +1,27 @@
+[
+  {
+    "type": "profile",
+    "content": {
+      "image": "https://cdn4.iconfinder.com/data/icons/asian-3d-avatars-3d-illustrations/512/asian-avatar_20.png",
+      "name": "John Doe",
+      "email": "john@domain.com"
+    }
+  },
+  {
+    "type": "map",
+    "content": {
+      "title": "Location",
+      "pin": "https://play-lh.googleusercontent.com/5WifOWRs00-sCNxCvFNJ22d4xg_NQkAODjmOKuCQqe57SjmDw8S6VOSLkqo6fs4zqis",
+      "lat": 6.1583228,
+      "lng": 1.2030100
+    }
+  },
+  {
+    "type": "data",
+    "content": {
+      "title": "Information",
+      "source": "wss://socketsbay.com/wss/v2/1/demo/",
+      "value": "Loading..."
+    }
+  }
+]
